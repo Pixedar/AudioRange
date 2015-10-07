@@ -1,0 +1,36 @@
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\bin\Debug\AudioDb.exe.config
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\bin\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\bin\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.csprojResolveAssemblyReference.cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.MainForm.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.csproj.GenerateResource.Cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\bin\Debug\NAudio.dll
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\bin\Debug\NAudio.xml
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.Massage.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb\AudioDb\obj\Debug\AudioDb.Warning.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\bin\Debug\AudioDb.exe.config
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\bin\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\bin\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\bin\Debug\NAudio.dll
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\bin\Debug\NAudio.xml
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.csprojResolveAssemblyReference.cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.MainForm.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.Massage.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.Warning.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.csproj.GenerateResource.Cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioDb — kopia\AudioDb\obj\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Debug\AudioDb.exe.config
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Debug\AudioDb.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Debug\AudioDb.pdb
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Debug\NAudio.dll
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Debug\NAudio.xml
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.csprojResolveAssemblyReference.cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.MainForm.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.Massage.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.Warning.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Debug\AudioDb.csproj.GenerateResource.Cache

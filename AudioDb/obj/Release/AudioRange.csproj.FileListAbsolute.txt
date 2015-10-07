@@ -1,0 +1,10 @@
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.csprojResolveAssemblyReference.cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.MainForm.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.Overlay.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.Warning.resources
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.csproj.GenerateResource.Cache
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Release\AudioRange.exe.config
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Release\AudioRange.exe
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Release\NAudio.dll
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\bin\Release\NAudio.xml
+C:\Users\pixedar\Documents\SharpDevelop Projects\AudioRange\AudioDb\obj\Release\AudioRange.exe
